@@ -1,0 +1,9 @@
+* numerical-utilities
+
+Utilities for numerical programming
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/Lisp-Stat/numerical-utilities.git |
+| commit  | 69f1c52                                                  |
+| systems | num-utils                                                |
+|---------+----------------------------------------------------------|
