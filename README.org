@@ -4,6 +4,6 @@ Utilities for numerical programming
 
 |---------+----------------------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/numerical-utilities.git |
-| commit  | 5ddc2a9                                                  |
+| commit  | 10f1d83                                                  |
 | systems | num-utils                                                |
 |---------+----------------------------------------------------------|
